@@ -46,9 +46,8 @@ Technical Skills
 ![image](https://user-images.githubusercontent.com/32374669/155651167-f3e3198f-f0eb-489a-bb3d-52b48fdbafb0.png)
 
 
-
-![image](https://user-images.githubusercontent.com/32374669/155651321-610aea49-c3bd-4a64-91b6-1d39d935e361.png)
-
+Connect with me
+Pramod's LinkedIn     Pramod's Instagram     Pramod's Twitter     Pramod's Twitter
 
 
 I am a final semester engineering student and I have participated in Hackathons, as well as volunteering to make web pages for animal organizations.
