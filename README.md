@@ -61,9 +61,9 @@ I Study Software and Technology Engineer in Universidad Modelo
 https://www.linkedin.com/in/hanna-siddharttha-lizarraga-ceballos-3745ab141
 
 
-I am a final semester engineering student and I have participated in Hackathons, as well as volunteering to make web pages for animal organizations.
+### I am a final semester engineering student and I have participated in Hackathons, as well as volunteering to make web pages for animal organizations.
             
-Sometimes I play with python and create masterpieces like the next picture
+#### Sometimes I play with python and create masterpieces like the next picture
             
 ![leviPyton](https://user-images.githubusercontent.com/32374669/155648281-1850e6bc-7862-4728-910f-d749da5cf225.png)
 
