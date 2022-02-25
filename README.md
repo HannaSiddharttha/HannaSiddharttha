@@ -22,8 +22,12 @@ I Study Software and Technology Engineer in Universidad Modelo
 - 🌱 I’m currently learning ... python and more from frontend
 - 💬 Ask me about ...Python, PHP, Laravel, React, Javascript and Web designer
 - 📫 How to reach me: ...siddharttha95@gmail.com
-- 😄 Pronouns: ...Spanish, but i can speak english
+- ✨ Lenguaje:... Spanish, but i can speak english.
+- 😄 Pronouns: ... Siddharttha
 - ⚡ Fun fact: ...I love cats, snakes and Anime 
+
+![image](https://user-images.githubusercontent.com/32374669/155650704-b256cfd3-69a1-469c-968d-a6974fac3c9d.png)
+
 
 
 I am a final semester engineering student and I have participated in Hackathons, as well as volunteering to make web pages for animal organizations.
