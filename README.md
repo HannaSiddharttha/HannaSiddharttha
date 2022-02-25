@@ -45,9 +45,9 @@ Technical Skills
 
 ![image](https://user-images.githubusercontent.com/32374669/155651167-f3e3198f-f0eb-489a-bb3d-52b48fdbafb0.png)
 
-![image](https://user-images.githubusercontent.com/32374669/155651177-c80a8f9b-db32-420e-b62e-d29aafa2ffdd.png)
 
 
+![image](https://user-images.githubusercontent.com/32374669/155651321-610aea49-c3bd-4a64-91b6-1d39d935e361.png)
 
 
 
