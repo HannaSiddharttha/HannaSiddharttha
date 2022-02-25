@@ -1,8 +1,8 @@
 
 ![Hanna perfil git](https://user-images.githubusercontent.com/32374669/155649798-62f3e8e5-37d3-4e4d-987f-d6197faed19e.gif)
 
-### Hi there 👋 my name is Hanna S. Lizarraga
-### Welcome to my profile
+## Hi there 👋 my name is Hanna S. Lizarraga
+## Welcome to my profile
 
 <!--
 **HannaSiddharttha/HannaSiddharttha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,7 @@ I Study Software and Technology Engineer in Universidad Modelo
 - 😄 Pronouns: ... Siddharttha
 - ⚡ Fun fact: ...I love cats, snakes and Anime 
 
-Technical Skills
+### Technical Skills
 
 ![image](https://user-images.githubusercontent.com/32374669/155650704-b256cfd3-69a1-469c-968d-a6974fac3c9d.png)
 ![image](https://user-images.githubusercontent.com/32374669/155650861-e16738e2-49cf-4bb0-9313-7f1f2ba0210e.png)
@@ -46,7 +46,7 @@ Technical Skills
 ![image](https://user-images.githubusercontent.com/32374669/155651167-f3e3198f-f0eb-489a-bb3d-52b48fdbafb0.png)
 
 
-Connect with me
+#### Connect with me
 
 ![image](https://user-images.githubusercontent.com/32374669/155651448-c47332f2-d3ad-441d-a0a3-210fda90d3c3.png)
 https://www.linkedin.com/in/hanna-siddharttha-lizarraga-ceballos-3745ab141
