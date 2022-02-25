@@ -47,7 +47,9 @@ Technical Skills
 
 
 Connect with me
-Pramod's LinkedIn     Pramod's Instagram     Pramod's Twitter     Pramod's Twitter
+
+![image](https://user-images.githubusercontent.com/32374669/155651448-c47332f2-d3ad-441d-a0a3-210fda90d3c3.png)
+https://www.linkedin.com/in/hanna-siddharttha-lizarraga-ceballos-3745ab141
 
 
 I am a final semester engineering student and I have participated in Hackathons, as well as volunteering to make web pages for animal organizations.
