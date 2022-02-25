@@ -16,24 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...Spanish, but i can speak english
 - ⚡ Fun fact: ...I love cats, snakes and Anime 
 -->
-class ReadMe:
-    def __init__(self, username="HannaSiddharttha", year=2022):
-        self.username = username
-        self.name = 'Hanna Siddharttha Lizarraga Ceballos'
-        self.education = {
-            'programming': ['Software and Technology Engineer', 'Universidad Modelo' ]
-        }
-        self.employment = {
-            'developer': ['Freelancer']
-        }
-
-    def doing(self, now=2022):
-        today = self.year
-
-        if now < today:
-            experience = self.employment['web developer']
-            return """
+I Study Software and Technology Engineer in Universidad Modelo
+       
+ 
             I am a final semester engineering student and I have participated in Hackathons, as well as volunteering to make web pages for animal organizations.
+            
+            Sometimes I play with python and create masterpieces like the next picture
+            
+            
             
             ![leviPyton](https://user-images.githubusercontent.com/32374669/155648281-1850e6bc-7862-4728-910f-d749da5cf225.png)
 
