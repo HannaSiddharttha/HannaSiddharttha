@@ -37,12 +37,17 @@ Technical Skills
 ![image](https://user-images.githubusercontent.com/32374669/155650983-17061108-62b4-4c13-a39b-c7d8952395b9.png)
 ![image](https://user-images.githubusercontent.com/32374669/155651003-3a3a4c88-23e7-47ec-a7c9-04239fdb063b.png)
 ![image](https://user-images.githubusercontent.com/32374669/155651018-5ddaa53e-2bac-4963-9c36-7269ab18f363.png)
+
+
+
+
 ![image](https://user-images.githubusercontent.com/32374669/155651062-4f160e44-412c-42dd-936e-47f6d1850afe.png)
+
 ![image](https://user-images.githubusercontent.com/32374669/155651167-f3e3198f-f0eb-489a-bb3d-52b48fdbafb0.png)
+
 ![image](https://user-images.githubusercontent.com/32374669/155651177-c80a8f9b-db32-420e-b62e-d29aafa2ffdd.png)
 
 
-![image](https://user-images.githubusercontent.com/32374669/155651197-3a64b663-3187-4c72-9b09-19c7f768a66d.png)
 
 
 
