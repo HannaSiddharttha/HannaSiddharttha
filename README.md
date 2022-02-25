@@ -33,13 +33,16 @@ Technical Skills
 ![image](https://user-images.githubusercontent.com/32374669/155650877-2e83c895-f937-4b94-aecc-298b9696d20f.png)
 ![image](https://user-images.githubusercontent.com/32374669/155650894-5db8c974-d4df-45ad-9b61-1316fa33deb0.png)
 ![image](https://user-images.githubusercontent.com/32374669/155650904-a26939c8-8d89-4b8b-a1aa-9b4a3b17a1f9.png)
-![image](https://user-images.githubusercontent.com/32374669/155650914-a6e174a2-ff96-49ef-b475-3a5d8e8876e5.png)
-![image](https://user-images.githubusercontent.com/32374669/155650941-eb197c0a-0053-4373-94cc-e0ee19cf46dc.png)
 ![image](https://user-images.githubusercontent.com/32374669/155650968-fb53b795-be1d-444d-ac77-54ba83026676.png)
 ![image](https://user-images.githubusercontent.com/32374669/155650983-17061108-62b4-4c13-a39b-c7d8952395b9.png)
 ![image](https://user-images.githubusercontent.com/32374669/155651003-3a3a4c88-23e7-47ec-a7c9-04239fdb063b.png)
 ![image](https://user-images.githubusercontent.com/32374669/155651018-5ddaa53e-2bac-4963-9c36-7269ab18f363.png)
 ![image](https://user-images.githubusercontent.com/32374669/155651062-4f160e44-412c-42dd-936e-47f6d1850afe.png)
+![image](https://user-images.githubusercontent.com/32374669/155651167-f3e3198f-f0eb-489a-bb3d-52b48fdbafb0.png)
+![image](https://user-images.githubusercontent.com/32374669/155651177-c80a8f9b-db32-420e-b62e-d29aafa2ffdd.png)
+
+
+![image](https://user-images.githubusercontent.com/32374669/155651197-3a64b663-3187-4c72-9b09-19c7f768a66d.png)
 
 
 
